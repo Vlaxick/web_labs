@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin: 3px;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+hr {
+    width: 40%;
+    height: 4px;
+    background-color: green;
+    border: none;
+    margin-top: 10px;
+}
+
+#conclusion{
+    margin-top: 10px;
+}
+
+.container{
+    border: 1px solid deeppink;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 500px;
+    border-radius: 10px;
+}
